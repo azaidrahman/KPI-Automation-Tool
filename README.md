@@ -1,5 +1,7 @@
 # CSM KPI Sheet Generator
 
+![KPIAutomation-PICTURE-PRESENTATION](https://github.com/user-attachments/assets/c0361309-4b54-4696-bc1e-670d77a5de42)
+
 ## Overview
 The CSM KPI Sheet Generator is a Python-based tool designed to automate the process of creating and managing Customer Success Manager (CSM) Key Performance Indicator (KPI) reports. This application streamlines the workflow for CSM teams by consolidating data from various sources and generating comprehensive Excel-based KPI sheets.
 
@@ -27,6 +29,10 @@ Provides an intuitive graphical interface for easy operation.
 - Loading Functions (loading_functions.py): Handles reading and initial processing of input files.
 - Processing Functions (processing_functions.py): Contains functions for detailed data processing and calculations.
 - Export Functions (export_individual_sheets.py): Manages the export of individual CSM sheets.
+
+Setup:
+
+
 
 ## Usage
 
