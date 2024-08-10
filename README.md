@@ -1,4 +1,4 @@
-# CSM KPI Sheet Generator
+# KPI Automation Tool
 
 ![KPIAutomation-PICTURE-PRESENTATION](https://github.com/user-attachments/assets/c0361309-4b54-4696-bc1e-670d77a5de42) ![image](https://github.com/user-attachments/assets/fe0898f2-613e-418f-9261-cafef889262b)
 
