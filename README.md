@@ -5,19 +5,28 @@ The CSM KPI Sheet Generator is a Python-based tool designed to automate the proc
 
 ## Features
 
-### File Upload: Supports uploading of job lists, budgets, payroll, and workbills files.
-### Data Processing: Automatically processes and consolidates data from multiple sources.
-### KPI Sheet Generation: Creates detailed Excel sheets with KPI data for each CSM.
-### Export Options: Allows exporting of individual CSM sheets or all CSM data.
-### User-Friendly GUI: Provides an intuitive graphical interface for easy operation.
+### File Upload: 
+Supports uploading of job lists, budgets, payroll, and workbills files.
+
+### Data Processing: 
+Automatically processes and consolidates data from multiple sources.
+
+### KPI Sheet Generation: 
+Creates detailed Excel sheets with KPI data for each CSM.
+
+### Export Options: 
+Allows exporting of individual CSM sheets or all CSM data.
+
+### User-Friendly GUI: 
+Provides an intuitive graphical interface for easy operation.
 
 ## Main Components
 
-### GUI (GUI.py): The main interface for user interaction.
-### Execution Functions (execution_functions.py): Core logic for processing files and generating reports.
-### Loading Functions (loading_functions.py): Handles reading and initial processing of input files.
-### Processing Functions (processing_functions.py): Contains functions for detailed data processing and calculations.
-### Export Functions (export_individual_sheets.py): Manages the export of individual CSM sheets.
+- GUI (GUI.py): The main interface for user interaction.
+- Execution Functions (execution_functions.py): Core logic for processing files and generating reports.
+- Loading Functions (loading_functions.py): Handles reading and initial processing of input files.
+- Processing Functions (processing_functions.py): Contains functions for detailed data processing and calculations.
+- Export Functions (export_individual_sheets.py): Manages the export of individual CSM sheets.
 
 ## Usage
 
